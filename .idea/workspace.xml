@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f4aa68e8-f9b1-4180-9a18-9302de361d38" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon.ico" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/img/about-bg.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/img/bg-sunset.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/img/bg-sunset2.jpg" afterDir="false" />
@@ -12,6 +13,7 @@
       <change afterPath="$PROJECT_DIR$/assets/img/post-sample-image.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -28,6 +30,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -41,6 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
