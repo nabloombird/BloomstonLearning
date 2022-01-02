@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4aa68e8-f9b1-4180-9a18-9302de361d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/playlists.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post-four.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post-three.html" beforeDir="false" afterPath="$PROJECT_DIR$/post-three.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post-two.html" beforeDir="false" afterPath="$PROJECT_DIR$/post-two.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post-four.html" beforeDir="false" afterPath="$PROJECT_DIR$/post-four.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
